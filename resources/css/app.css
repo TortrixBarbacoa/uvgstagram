@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-b {
+    border-bottom: 1px solid #262626; /* gray-200 */
+  }
+  h1 {
+    font-family: 'Courgette', cursive;
+}
+
